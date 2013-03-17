@@ -1,4 +1,4 @@
-settings
+Settings
 ========
 
 Application settings for development
